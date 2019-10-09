@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Mvc;
 using Ioc.Service;
-using Ioc.Web.Models;
+using Ioc.WebApplication.Models;
 using Ioc.Core.Data;
 
-namespace Ioc.Web.Controllers
+namespace Ioc.WebApplication.Controllers
 {
     public class UserController : Controller
     {

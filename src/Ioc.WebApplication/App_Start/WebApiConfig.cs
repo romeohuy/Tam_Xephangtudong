@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace Ioc.Web
+namespace Ioc.WebApplication
 {
     public static class WebApiConfig
     {

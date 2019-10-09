@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace Ioc.Web.Models
+namespace Ioc.WebApplication.Models
 {
     public class UserModel
     {
